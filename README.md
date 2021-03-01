@@ -1,1 +1,1 @@
-"# My_Final_Project" 
+This project is suitable for corporate architectural structures and Northwind based layered architecture. In the project, there are CRUD operations on the database. I used ORM for accessing databse. It is very good example for understanding fundamentals of C# and its benefits
